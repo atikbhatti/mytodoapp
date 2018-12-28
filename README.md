@@ -1,1 +1,3 @@
-# mytodoapp.github.io
+# mytodoapp
+
+Simple todo app, using Javascript (Object oiented).
